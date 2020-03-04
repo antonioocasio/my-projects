@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DNA Finder</string>
+    <string name="find_dnas">Find DNA\'s!</string>
+    <string name="download_error">Download Error</string>
+    <string name="data_error">Invalid Data</string>
+</resources>

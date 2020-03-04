@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Game Rating App</string>
+    <string name="game_name">Game Name</string>
+    <string name="game_type">Type of Game</string>
+    <string name="review">Review of Game</string>
+    <string name="submit_button">Submit</string>
+    <string-array name="consoles">
+        <item>- - -</item>
+        <item>PS4</item>
+        <item>Xbox</item>
+        <item>Nintendo Switch</item>
+        <item>PC</item>
+    </string-array>
+</resources>

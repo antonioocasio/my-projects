@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="find_dnas">Go!</string>
+    <string name="download_error">Download Error</string>
+    <string name="data_error">Invalid Data</string>
+    <string name="title_date">%s %s</string>
+
+</resources>
